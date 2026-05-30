@@ -1,0 +1,4 @@
+﻿I:\vision studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  8.7 strquote 类＋引用.cpp
+I:\C\Project\Project\8.7 strquote 类＋引用.cpp(50,1): warning C4172: 返回局部变量或临时变量的地址: temp
+  Project.vcxproj -> I:\C\Project\x64\Debug\Learning.exe

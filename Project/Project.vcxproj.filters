@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\C++ Primer Plus">
+      <UniqueIdentifier>{ed6e2b11-022c-45b5-b44e-e12d591a9998}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++ Primer Plus\Chapter4">
+      <UniqueIdentifier>{561a0c57-65ad-4bcb-90e4-429f8b244337}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++ Primer Plus\Chapter2+3">
+      <UniqueIdentifier>{f390d683-bca0-470b-b3cf-2ed34dd69d00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++ Primer Plus\Chapter5">
+      <UniqueIdentifier>{5564c3f8-924b-4716-b650-0289b0e72652}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++ Primer Plus\Chapter6">
+      <UniqueIdentifier>{57821aa8-163b-4642-be2e-73b7991a805d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++ Primer Plus\Chapter7">
+      <UniqueIdentifier>{d675ea68-f4be-43ba-ae1e-88469a7a3784}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Lab">
+      <UniqueIdentifier>{f76848ae-fd3e-450d-a085-04e7f135800d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++ Primer Plus\Chapter8">
+      <UniqueIdentifier>{1626a40e-075e-40e7-a0b5-813f7c0bd2f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\coursework">
+      <UniqueIdentifier>{f9bd28e8-33a5-4365-aa42-64152b077f78}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3.14 类型转换.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.13 setf.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.12 求模计算.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.11 除法分支.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.10 算数运算符.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.9 优缺点.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.8 浮点数的精度.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.7 转义字符.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6 char与cin cout.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5 char类型.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3 3.4 进制互换.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2 无符号类型.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1 climits和sizeof.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="2.4 面积.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter2+3</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1 数组.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.2 数组中的字符串.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.3 字符串的键入.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.4 cin.getline.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.5 cin.get.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.6 cin.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.7 string类.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.8 赋值拼接附加.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.9 其他操作.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.10 string和c风格字符串的区别.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="Template.cpp">
+      <Filter>源文件\C++ Primer Plus</Filter>
+    </ClCompile>
+    <ClCompile Include="4.11 结构.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.12 结构的赋值.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.13 结构数组.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.14 地址运算符.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.15 指针.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.16 指针初始化·.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.17 使用new来分配空间.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.18 数组和指针 .cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.19 算术指针.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.20 指针和字符串.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.21 指针和结构.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.22 动态结构.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.23 类型组合.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="4.24 array对象.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="5.1.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.3.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.4.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.5.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.6.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.7.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.8.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.9.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.10.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.11.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.12.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.13.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.14.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.15.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.16.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.17.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.18.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.19.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.20.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter5</Filter>
+    </ClCompile>
+    <ClCompile Include="6.1.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.2.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.3.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.4.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.5.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.6.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.7.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.8.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.9.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.10.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.11.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.12.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice.cpp">
+      <Filter>源文件\C++ Primer Plus</Filter>
+    </ClCompile>
+    <ClCompile Include="6.11.2.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.13.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.14.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.15.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="6.16.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1格式.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.2求体积.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.3重复字符.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.4计算中奖概率.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.5数组求和.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.6数组求和2.0.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.7函数与数组%28房地产%29.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.8函数与数组%28在数组中取值%29.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.8.const解释.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.9函数与数组%28统计字符数%29.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.10函数与数组%28将字符重复%29.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.11函数与结构%28计算小时分钟%29.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.12函数与结构%28极坐标转换%29.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.13%28同上%29.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.14函数与字符串%28指针显示%29.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.15函数和array对象.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.16单递归.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.17多递归.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.18函数与指针%28计算工人的效率%29.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="7.19.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="distance2D.cpp">
+      <Filter>源文件\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="check whether divisible.cpp">
+      <Filter>源文件\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="judge two circles.cpp">
+      <Filter>源文件\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="sum the series.cpp">
+      <Filter>源文件\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="converts an uppercase letter to lowercase.cpp">
+      <Filter>源文件\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="interest.cpp">
+      <Filter>源文件\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="display the even number.cpp">
+      <Filter>源文件\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="printASCII.cpp">
+      <Filter>源文件\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="minimum number.cpp">
+      <Filter>源文件\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="multiply two matrices .cpp">
+      <Filter>源文件\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="debug.cpp">
+      <Filter>源文件\coursework</Filter>
+    </ClCompile>
+    <ClCompile Include="Question2.cpp">
+      <Filter>源文件\coursework</Filter>
+    </ClCompile>
+    <ClCompile Include="8.1 inline.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="8.2 firstref.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="8.3 sceref.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="8.4 swaps.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="8.5 cubes.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="8.5.2 左值和右值.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="8.5.3.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="8.6 strtref 结构＋引用.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter8</Filter>
+    </ClCompile>
+    <ClCompile Include="8.7 strquote 类＋引用.cpp">
+      <Filter>源文件\C++ Primer Plus\Chapter8</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
